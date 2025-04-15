@@ -116,7 +116,7 @@
   }
 
   #lastllasy{
-    background:url(IMG/othr1.png) no-repeat center center/cover;
+    background:url(othr1.png) no-repeat center center/cover;
     width:100%;
     height:300px;
     animation-name:mrron;
@@ -134,27 +134,27 @@
 
   @keyframes mrron{
     0%{
-      background:url(IMG/othr1.png) no-repeat center center/cover;
+      background:url(othr1.png) no-repeat center center/cover;
     }
     12.5%{
-        background:url(IMG/othr2.png) no-repeat center center/cover;
+        background:url(othr2.png) no-repeat center center/cover;
     }
     25%{
-      background:url(IMG/othr3.png) no-repeat center center/cover;
+      background:url(othr3.png) no-repeat center center/cover;
     }
     37.5%{
-        background:url(IMG/othr4.png) no-repeat center center/cover;
+        background:url(othr4.png) no-repeat center center/cover;
     }
     50%{
-        background:url(IMG/othr4.png) no-repeat center center/cover;
+        background:url(othr4.png) no-repeat center center/cover;
     }
     62.5%{
-        background:url(IMG/othr3.png) no-repeat center center/cover;
+        background:url(othr3.png) no-repeat center center/cover;
     }
     75%{
-          background:url(IMG/othr2.png) no-repeat center center/cover;
+          background:url(othr2.png) no-repeat center center/cover;
     }
     100%{
-          background:url(IMG/othr1.png) no-repeat center center/cover;
+          background:url(othr1.png) no-repeat center center/cover;
     }
   }
