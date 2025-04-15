@@ -44,121 +44,121 @@
 }
 
 .one{
-  background:url('IMG/1.jpeg') no-repeat center center/cover;
+  background:url('1.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .two{
-  background:url('IMG/2.jpeg') no-repeat center center/cover;
+  background:url('2.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .three{
-  background:url('IMG/3.jpeg') no-repeat center center/cover;
+  background:url('3.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .four{
-  background:url('IMG/4.jpeg') no-repeat center center/cover;
+  background:url('4.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .five{
-  background:url('IMG/5.jpeg') no-repeat center center/cover;
+  background:url('5.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .six{
-  background:url('IMG/6.jpeg') no-repeat center center/cover;
+  background:url('6.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .seven{
-  background:url('IMG/7.jpeg') no-repeat center center/cover;
+  background:url('7.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .eight{
-  background:url('IMG/8.jpeg') no-repeat center center/cover;
+  background:url('8.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .nine{
-  background:url('IMG/9.jpeg') no-repeat center center/cover;
+  background:url('9.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .ten{
-  background:url('IMG/10.jpeg') no-repeat center center/cover;
+  background:url('10.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .eleven{
-  background:url('IMG/11.jpeg') no-repeat center center/cover;
+  background:url('11.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .twelve{
-  background:url('IMG/12.jpeg') no-repeat center center/cover;
+  background:url('12.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .thirteen{
-  background:url('IMG/13.jpeg') no-repeat center center/cover;
+  background:url('13.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .fourteen{
-  background:url('IMG/14.jpeg') no-repeat center center/cover;
+  background:url('14.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .fifteen{
-  background:url('IMG/15.jpeg') no-repeat center center/cover;
+  background:url('15.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .sixteen{
-  background:url('IMG/16.jpeg') no-repeat center center/cover;
+  background:url('16.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .seventeen{
-  background:url('IMG/17.jpeg') no-repeat center center/cover;
+  background:url('17.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .eighteen{
-  background:url('IMG/18.jpeg') no-repeat center center/cover;
+  background:url('18.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .ninteen{
-  background:url('IMG/19.jpeg') no-repeat center center/cover;
+  background:url('19.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
 
 .twenty{
-  background:url('IMG/20.jpeg') no-repeat center center/cover;
+  background:url('20.jpeg') no-repeat center center/cover;
   height:400px;
   width:300px;
 }
@@ -246,27 +246,27 @@ background:#FFF5C5;
 
 @keyframes lefrot{
   0%{
-    background:url(IMG/leftrot4.png) no-repeat center center/cover;
+    background:url(leftrot4.png) no-repeat center center/cover;
     height:300px;
     width:300px;
   }
   25%{
-    background:url(IMG/leftrot1.png) no-repeat center center/cover;
+    background:url(leftrot1.png) no-repeat center center/cover;
     height:300px;
     width:300px;
   }
   50%{
-    background:url(IMG/leftrot2.png) no-repeat center center/cover;
+    background:url(leftrot2.png) no-repeat center center/cover;
     height:300px;
     width:300px;
   }
   75%{
-    background:url(IMG/leftrot3.png) no-repeat center center/cover;
+    background:url(leftrot3.png) no-repeat center center/cover;
     height:300px;
     width:300px;
   }
   100%{
-    background:url(IMG/leftrot4.png) no-repeat center center/cover;
+    background:url(leftrot4.png) no-repeat center center/cover;
     height:300px;
     width:300px;
   }
@@ -285,27 +285,27 @@ background:#FFF5C5;
 
 @keyframes rtrot{
   0%{
-    background:url(IMG/rtrot4.png) no-repeat center center/cover;
+    background:url(rtrot4.png) no-repeat center center/cover;
     height:300px;
     width:300px;
   }
   25%{
-    background:url(IMG/rtrot1.png) no-repeat center center/cover;
+    background:url(rtrot1.png) no-repeat center center/cover;
     height:300px;
     width:300px;
   }
   50%{
-    background:url(IMG/rtrot2.png) no-repeat center center/cover;
+    background:url(rtrot2.png) no-repeat center center/cover;
     height:300px;
     width:300px;
   }
   75%{
-    background:url(IMG/rtrot3.png) no-repeat center center/cover;
+    background:url(rtrot3.png) no-repeat center center/cover;
     height:300px;
     width:300px;
   }
   100%{
-    background:url(IMG/leftrot4.png) no-repeat center center/cover;
+    background:url(leftrot4.png) no-repeat center center/cover;
     height:300px;
     width:300px;
   }
