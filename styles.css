@@ -71,7 +71,7 @@
   }
 
   .letters{
-    background:url(IMG/lessave.jpg) no-repeat center center/cover;
+    background:url(lessave.jpg) no-repeat center center/cover;
     height:350px;
     width:300px;
     padding:50px;
@@ -94,7 +94,7 @@
   }
 
   #envo {
-    background: url("IMG/10 things I love about you.png") no-repeat center center / cover;
+    background: url("10 things I love about you.png") no-repeat center center / cover;
     height: 200px;
     width: 350px;
     margin: 0 auto;
@@ -103,7 +103,7 @@
   }
 
   #envo.clicked {
-    background: url('IMG/10otherones.png') no-repeat center center / cover;
+    background: url('10otherones.png') no-repeat center center / cover;
     height: 400px;
   }
   
